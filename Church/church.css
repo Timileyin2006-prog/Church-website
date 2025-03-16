@@ -34,7 +34,7 @@
         }
 
         .hero {
-            background: linear-gradient(to right, red, yellow),
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
                         url('https://i.pinimg.com/736x/18/01/32/180132cb2741e9356b21ee08875453f9.jpg');
             background-size: cover;
             background-position: center;
